@@ -27,7 +27,7 @@ processed_dir="your_directory/dataset.zip"
 trained_dir="your_output_directory_path"
 
 # Source code directory
-source_code="your_directory/stylegan2-ada-pytorch/"
+source_code="your_directory/stylegan2-ada-pytorch-code/"
 
 # Load GCC compiler
 module load gcc/
