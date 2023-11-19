@@ -37,9 +37,9 @@ To access the dataset offered with this paper, you can request a copy from the [
 ./generate.sh
 ``
 
-*Note: Make sure you have provided all the valid paths in the script.*
+***Note: Make sure you have provided all the valid paths in the script.***
 
-### Citation
+## Citation
 Please cite our paper if you use any part of our code or data.
 ```
 @inproceedings{bhuiyan2024forensic,
