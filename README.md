@@ -19,6 +19,12 @@ To access the trained model weights offered with this paper, you can request a c
   - Code: stylegan2-ada-pytorch-code/dataset_tool.py
   - *Note: To prepare the conditional training dataset, ensure you have a JSON file containing filenames and their corresponding labels. An example JSON file is available in training-dataset/dataset.json.*
 
+## Installation
+Install dependencies using Conda:
+
+``
+conda env create -f environment.yml
+``
 
 - **Training:**
   - Code: stylegan2-ada-pytorch-code/train.py
