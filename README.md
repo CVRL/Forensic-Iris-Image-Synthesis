@@ -17,3 +17,4 @@
 
 - **Synthesis Image Generation:**
   - Code: stylegan2-ada-pytorch-code/generate.py
+  - *Note: If you want to adjust the noise intensity while generating synthesis images, you can change it by modifying line number 122.*
