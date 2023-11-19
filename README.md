@@ -9,7 +9,10 @@
   <figcaption>Figure 1: Synthesis of PMI-conditioned same- and different-identity forensic iris images, with a desired iris image quality (controlled by matching the ISO quality metrics), and with the desired genuine/impostor score distributions (mimicking score distributions obtained for authentic forensic samples).</figcaption> 
 
 ## Obtaining the Offered Dataset
-To access the dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "UND WACV 2024 Forensic Iris Synthesis Dataset."
+To access the forensic iris synthesis dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "UND WACV 2024 Forensic Iris Synthesis Dataset."
+
+## Obtaining the trained model weights
+To access the trained model weights offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "network-snapshot-025000.pkl".
 
 ## Contents
 - **Training Dataset Preparation:**
