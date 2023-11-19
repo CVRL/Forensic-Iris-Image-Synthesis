@@ -11,7 +11,7 @@
 ## Obtaining the Offered Dataset
 To access the forensic iris synthesis dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "UND WACV 2024 Forensic Iris Synthesis Dataset."
 
-## Obtaining the trained model weights
+## Obtaining the Trained Model Weights
 To access the trained model weights offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "network-snapshot-025000.pkl".
 
 ## Contents
