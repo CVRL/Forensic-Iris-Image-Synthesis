@@ -25,13 +25,13 @@ To access the dataset offered with this paper, you can request a copy from the [
   - *Note: If you want to adjust the noise intensity while generating synthesis images, you can change it by modifying line number 122.*
 
 ## To Run
-1.) Run the following script to prepare the training dataset and train the model:
+- Run the following bash script to prepare the training dataset and train the model:
 
 ``
 ./train.sh
 ``
 
-2.) Run the following script to generate synthesis images with different noise intensities:
+- Run the following bash script to generate synthesis images with different noise intensities:
 
 ``
 ./generate.sh
