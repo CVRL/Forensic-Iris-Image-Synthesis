@@ -6,4 +6,4 @@
 
 <figure>
   <img src="./teaser.png" style="width:100%">
-  <figcaption>Figure 1: Synthesis of **PMI-conditioned** same- and different-identity forensic iris images, with a **desired iris image quality** (controlled by matching the ISO quality metrics), and with the **desired genuine/impostor score distributions** (mimicking score distributions obtained for authentic forensic samples).</figcaption>  
+  <figcaption>Figure 1: Synthesis of **PMI-conditioned** same and different identity forensic iris images, with a **desired iris image quality** (controlled by matching the ISO quality metrics), and with the **desired genuine/impostor score distributions** (mimicking score distributions obtained for authentic forensic samples).</figcaption>  
