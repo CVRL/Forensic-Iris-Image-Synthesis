@@ -9,6 +9,11 @@
   <figcaption>Figure 1: Synthesis of PMI-conditioned same- and different-identity forensic iris images, with a desired iris image quality (controlled by matching the ISO quality metrics), and with the desired genuine/impostor score distributions (mimicking score distributions obtained for authentic forensic samples).</figcaption>  
 
 ## Contents
-* The code of training dataset preparation is in stylegan2-ada-pytorch-code/dataset_tool.py
-* Training code is in stylegan2-ada-pytorch-code/train.py
-* Generating synthesis image code is in stylegan2-ada-pytorch-code/generate.py
+- **Training Dataset Preparation:**
+  - Code: stylegan2-ada-pytorch-code/dataset_tool.py
+
+- **Training:**
+  - Code: stylegan2-ada-pytorch-code/train.py
+
+- **Synthesis Image Generation:**
+  - Code: stylegan2-ada-pytorch-code/generate.py
