@@ -26,8 +26,8 @@ To access the trained model weights offered with this paper, you can request a c
   - Code: stylegan2-ada-pytorch-code/generate.py
   - *Note: If you want to adjust the noise intensity while generating synthesis images, you can change it by modifying line number 122.*
  
-## Installation
-Install dependencies using Conda:
+## Create Environment
+Set up Python environment using Conda:
 
 ``
 conda env create -f environment.yml
