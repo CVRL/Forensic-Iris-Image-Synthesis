@@ -11,6 +11,8 @@
 ## Contents
 - **Training Dataset Preparation:**
   - Code: stylegan2-ada-pytorch-code/dataset_tool.py
+  - *Note: To prepare the conditional training dataset, ensure you have a JSON file containing filenames and their corresponding labels. An example JSON file is available in training-dataset/dataset.json.*
+
 
 - **Training:**
   - Code: stylegan2-ada-pytorch-code/train.py
