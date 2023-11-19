@@ -20,3 +20,13 @@
 - **Synthesis Image Generation:**
   - Code: stylegan2-ada-pytorch-code/generate.py
   - *Note: If you want to adjust the noise intensity while generating synthesis images, you can change it by modifying line number 122.*
+
+### Citation
+Please cite our paper if you use any part of our code or data.
+```
+@inproceedings{bhuiyan2024forensic,
+  title={Forensic Iris Image Synthesis},
+  author={Bhuiyan, Rasel Ahmed and Czajka, Adam},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2024},
+}
