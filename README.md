@@ -8,7 +8,7 @@
   <img src="./teaser.png" style="width:100%">
   <figcaption>Figure 1: Synthesis of PMI-conditioned same- and different-identity forensic iris images, with a desired iris image quality (controlled by matching the ISO quality metrics), and with the desired genuine/impostor score distributions (mimicking score distributions obtained for authentic forensic samples).</figcaption> 
 
-## Obtaining the Offered Data
+## Obtaining the Offered Dataset
 To access the dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "UND WACV 2024 Forensic Iris Synthesis Dataset."
 
 ## Contents
@@ -23,6 +23,21 @@ To access the dataset offered with this paper, you can request a copy from the [
 - **Synthesis Image Generation:**
   - Code: stylegan2-ada-pytorch-code/generate.py
   - *Note: If you want to adjust the noise intensity while generating synthesis images, you can change it by modifying line number 122.*
+
+## To Run
+1.) Run the following script to prepare the training dataset and train the model:
+
+``
+./train.sh
+``
+
+2.) Run the following script to generate synthesis images with different noise intensities:
+
+``
+./generate.sh
+``
+
+*Note: Make sure you have provided all the valid paths in the script.*
 
 ### Citation
 Please cite our paper if you use any part of our code or data.
