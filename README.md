@@ -1,6 +1,6 @@
 # Forensic Iris Image Synthesis
 
-## Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024
+## IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024 -- Workshop on Manipulation, Adversarial, and Presentation Attacks in Biometrics (MAP-A)
 
 ### [Official Paper](https://wacv2024.thecvf.com/) | [ArXiv pre-print](https://arxiv.org/pdf/2312.04125.pdf)
 
