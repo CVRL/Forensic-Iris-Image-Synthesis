@@ -15,7 +15,7 @@ Post-mortem iris recognition is an emerging application of iris-based human iden
 To access the forensic iris synthesis dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "UND WACV 2024 Forensic Iris Synthesis Dataset."
 
 ## Obtaining the Trained Model Weights
-To access the trained model weights offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "network-snapshot-025000.pkl".
+The trained model weights can be downloaded at [network-snapshot-025000.pkl](https://drive.google.com/drive/folders/16IgnUHyMQpotSMyCyJJJNJTCpt7c2DGe?usp=share_link).
 
 ## Contents
 - **Training Dataset Preparation:**
