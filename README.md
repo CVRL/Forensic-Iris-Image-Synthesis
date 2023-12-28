@@ -57,6 +57,7 @@ Please cite our paper if you use any part of our code or data.
 @inproceedings{bhuiyan2024forensic,
   title={Forensic Iris Image Synthesis},
   author={Bhuiyan, Rasel Ahmed and Czajka, Adam},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  year={2024},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1015--1023},
+  year={2024}
 }
