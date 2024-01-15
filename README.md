@@ -12,7 +12,7 @@ Post-mortem iris recognition is an emerging application of iris-based human iden
   <figcaption>Figure: Synthesis of PMI-conditioned same- and different-identity forensic iris images, with a desired iris image quality (controlled by matching the ISO quality metrics), and with the desired genuine/impostor score distributions (mimicking score distributions obtained for authentic forensic samples).</figcaption> 
 
 ## Obtaining the Dataset
-To access the forensic iris synthesis dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "UND WACV 2024 Forensic Iris Synthesis Dataset."
+To access the forensic iris synthesis dataset offered with this paper, you can request a copy from the [University of Notre Dame Computer Vision Research Lab](https://cvrl.nd.edu/projects/data). The specific collection related to this work is titled "Synthetic Forensic Iris (UND-SFI-2024) Dataset"
 
 ## Obtaining the Trained Model Weights
 The trained model weights can be downloaded at [network-snapshot-025000.pkl](https://drive.google.com/drive/folders/16IgnUHyMQpotSMyCyJJJNJTCpt7c2DGe?usp=share_link).
